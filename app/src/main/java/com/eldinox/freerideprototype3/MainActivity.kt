@@ -241,7 +241,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener, MqttCallback
         //Button Discovery Mode
         /*
         Deativiert: Menuebuttons
-        Aktiviert: das Textfeld zur Anzeige der Modus, Geschwindigkeitsregler, Richtungsregler, Buttons zum tilten der Kamera, den Backbutton, den Button.
+        Aktiviert: das Textfeld zur Anzeige der Modus, Geschwindigkeitsregler, Richtungsregler, Buttons zum tilten der Kamera, den Backbutton, den Button
             zum Neuladen des Streams, den Screenshotbutton und die Webview zur Uebertragung des Streams.
         Faerbt: Backbutton und Refreshbutton blau, entsprechend des Discoverymodes.
         Setzt: das Textfeld auf "Discovery Mode", den Modus auf den Wert 2 fuer Discoverymode und den vertikalen Wert der Kameraausrichtung auf 23 (Ausganswert).
