@@ -1,0 +1,1 @@
+Spieler1 - 0:30 - 1:00 - Spieler2 - 0:35 - 1:05 - Spieler3 - 0:40 - 1:10 - Spieler4 - 0:45 - 1:15 - Spieler5 - 0:50 - 1:20
