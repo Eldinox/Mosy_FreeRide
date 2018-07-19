@@ -294,10 +294,10 @@ class MainActivity : AppCompatActivity(), SensorEventListener, MqttCallback
             setName()
         }
 
-        //Button Screenshot-Gallerie
+        //Button Screenshot-Galerie
         /*
         Deativiert: Menuebuttons.
-        Aktiviert: den Backbutton, die Bildergallerie und die Buttons zum wechseln des Bildes.
+        Aktiviert: den Backbutton, die Bildergalerie und die Buttons zum wechseln des Bildes.
         Faerbt: Backbutton blau, entsprechend des Discoverymodes.
         Setzt: die Imageview der Gallery auf das erste Bild im Speicher.
         */
@@ -313,7 +313,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener, MqttCallback
             pImageButton.visibility = View.VISIBLE
             bButton.setBackgroundColor(colorBlue)
 
-            //Erstes Bild anzeigen in der Gallerie
+            //Erstes Bild anzeigen in der Galerie
             imageNumber = 0
             imagePath = "mnt/sdcard/image" + imageNumber.toString() + ".png"
 
